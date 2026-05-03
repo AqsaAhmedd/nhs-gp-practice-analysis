@@ -24,7 +24,7 @@ The aim was to answer:
 - GP practices are concentrated in major cities, which may reflect population density and demand for primary care services.
 
 ## Dashboard
-Tableau Public dashboard: add link here
+Tableau Public dashboard: https://public.tableau.com/authoring/NHSGPPracticeAnalysisDashboard/Dashboard1#1
 
 ## Limitations
 This dataset is organisation-level NHS GP practice data. It does not include patient list size, appointment demand, workforce numbers, waiting times, or quality of care measures.
