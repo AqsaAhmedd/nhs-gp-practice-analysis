@@ -35,3 +35,13 @@ This dataset is organisation-level NHS GP practice data. It does not include pat
 - Creating pivot tables in Excel
 - Building Tableau visualisations
 - Summarising healthcare data into clear insights
+## Visualisations
+
+### Excel Pivot Table: Practice Status
+![Excel Pivot Status](excel_pivot_status.png)
+
+### Tableau Chart: Practice Status
+![Tableau Status Chart](tableau_status_chart.png)
+
+### Tableau Chart: Top Cities
+![Tableau Top Cities](tableau_top_cities.png)
